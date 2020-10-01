@@ -1,0 +1,425 @@
+Airone bianco maggiore  
+Airone cenerino
+Airone guardabuoi
+Airone rosso
+Albanella minore
+Albanella pallida
+Albanella reale
+Albastrello
+Allocco
+Allodola
+Allodola golagialla
+Alzavola
+Anatra mandarina
+Anatra marmorizzata
+Anatra sposa
+Aquila anatraia maggiore
+Aquila anatraia minore
+Aquila di mare
+Aquila minore
+Aquila reale
+Assiolo
+Astore
+Averla capirossa
+Averla cenerina
+Averla isabellina
+Averla maggiore
+Averla piccola
+Avocetta
+Avvoltoio monaco
+Balestruccio
+Balia caucasica
+Balia dal collare
+Balia nera
+Ballerina bianca
+Ballerina gialla
+Barbagianni
+Basettino
+Beccaccia
+Beccaccia di mare
+Beccaccino
+Beccafico
+Beccamoschino
+Beccapesci
+Beccofrusone
+Berta grigia
+Berta maggiore
+Berta maggiore atlantica
+Berta minore
+Berta minore atlantica
+Biancone
+Bigia grossa
+Bigia padovana
+Bigiarella
+Calandra
+Calandra asiatica
+Calandra siberiana
+Calandrella
+Calandrina
+Calandro
+Calandro maggiore
+Canapiglia
+Canapino asiatico
+Canapino comune
+Canapino maggiore
+Cannaiola comune
+Cannaiola di Blyth
+Cannaiola di Jerdon
+Cannaiola verdognola
+Cannareccione
+Capinera
+Capovaccaio
+Cappellaccia
+Cardellino
+Casarca
+Cavaliere d'Italia
+Cesena
+Chiurlo maggiore
+Chiurlo piccolo
+Chiurlottello
+Cicogna bianca
+Cicogna nera
+Cigno minore
+Cigno reale
+Cigno selvatico
+Cincia alpestre
+Cincia alpestre o C. dei salici
+Cincia bigia
+Cincia dal ciuffo
+Cincia dei salici
+Cincia mora
+Cinciallegra
+Cinciarella
+Ciuffolotto
+Ciuffolotto delle pinete
+Ciuffolotto scarlatto
+Civetta
+Civetta capogrosso
+Civetta nana
+Codibugnolo
+Codirosso comune
+Codirosso spazzacamino
+Codirossone
+Codone
+Colombaccio
+Colombella
+Combattente
+Cormorano
+Cornacchia grigia
+Cornacchia nera
+Corriere americano
+Corriere grosso
+Corriere piccolo
+Corrione biondo
+Corvo comune
+Corvo imperiale
+Coturnice
+Croccolone
+Crociere
+Cuculo
+Cuculo dal ciuffo
+Culbianco
+Cutrettola
+Cutrettola testagialla orientale
+Edredone
+Fagiano comune
+Fagiano di monte
+Falaropo beccolargo
+Falaropo beccosottile
+Falco cuculo
+Falco della Regina
+Falco di palude
+Falco pecchiaiolo
+Falco pellegrino
+Falco pescatore
+Fanello
+Fanello nordico
+Fenicottero
+Fiorrancino
+Fischione
+Fistione turco
+Folaga
+Forapaglie castagnolo
+Forapaglie comune
+Forapaglie macchiettato
+Francolino di monte
+Fraticello
+Fratino
+Fringuello
+Fringuello alpino
+Frosone
+Frullino
+Gabbianello
+Gabbiano comune
+Gabbiano corallino
+Gabbiano corso
+Gabbiano d'Islanda
+Gabbiano di Franklin
+Gabbiano di Sabine
+Gabbiano eburneo
+Gabbiano glauco
+Gabbiano reale
+Gabbiano reale nordico
+Gabbiano reale pontico
+Gabbiano roseo
+Gabbiano sghignazzante
+Gabbiano tridattilo
+Gallina prataiola
+Gallinella d'acqua
+Gallo cedrone
+Gambecchio comune
+Gambecchio di Bonaparte
+Gambecchio frullino
+Gambecchio nano
+Garzetta
+Gavina
+Gazza
+Germano reale
+Gheppio
+Ghiandaia
+Ghiandaia marina
+Gipeto
+Girfalco
+Gobbo della Giamaica
+Gobbo rugginoso
+Gracchio alpino
+Gracchio corallino
+Grifone
+Grillaio
+Gru
+Gruccione
+Gruccione egiziano
+Gufo comune
+Gufo di palude
+Gufo reale
+Ibis sacro
+Labbo
+Labbo codalunga
+Locustella fluviatile
+Lodolaio
+Lucherino
+LuÃ¬ bianco
+LuÃ¬ di Hume
+LuÃ¬ di Pallas
+LuÃ¬ di Radde
+LuÃ¬ forestiero
+LuÃ¬ grosso
+LuÃ¬ iberico
+LuÃ¬ piccolo
+LuÃ¬ scuro
+LuÃ¬ siberiano
+LuÃ¬ verdastro
+LuÃ¬ verde
+Magnanina comune
+Marangone dal ciuffo
+Marangone minore
+Martin pescatore
+Marzaiola
+Marzaiola americana
+Merlo
+Merlo acquaiolo
+Merlo dal collare
+Mestolone
+Migliarino di palude
+Mignattaio
+Mignattino alibianche
+Mignattino comune
+Mignattino piombato
+Monachella
+Monachella del deserto
+Moretta
+Moretta codona
+Moretta dal collare
+Moretta grigia
+Moretta grigia minore
+Moretta tabaccata
+Moriglione
+Mugnaiaccio
+Nibbio bianco
+Nibbio bruno
+Nibbio reale
+Nitticora
+Nocciolaia
+Oca collorosso
+Oca colombaccio
+Oca del Canada
+Oca delle nevi
+Oca egiziana
+Oca facciabianca
+Oca granaiola
+Oca lombardella
+Oca lombardella minore
+Oca selvatica
+Oca zamperosee
+Occhiocotto
+Occhione
+Orchetto marino
+Orco marino
+Organetto
+Ortolano
+Otarda
+Pagliarolo
+Pantana
+Passera d'Italia
+Passera europea
+Passera lagia
+Passera mattugia
+Passera scopaiola
+Passero cantore
+Passero solitario
+Pavoncella
+Pavoncella gregaria
+Pellicano comune
+Pellicano riccio
+Pellicano rossiccio
+Pendolino
+Peppola
+Pernice bianca
+Pernice di mare
+Pernice di mare orientale
+Pernice rossa
+Pesciaiola
+Pettazzurro
+Pettegola
+Pettirosso
+Pettirosso golabianca
+Picchio cenerino
+Picchio dalmatino
+Picchio muraiolo
+Picchio muratore
+Picchio nero
+Picchio rosso maggiore
+Picchio rosso mezzano
+Picchio rosso minore
+Picchio tridattilo
+Picchio verde
+Piccione torraiolo
+Pigliamosche
+Pigliamosche pettirosso
+Piovanello comune
+Piovanello maggiore
+Piovanello pancianera
+Piovanello pettorale
+Piovanello tridattilo
+Piovanello violetto
+Piro piro boschereccio
+Piro piro culbianco
+Piro piro del Terek
+Piro piro fulvo
+Piro piro macchiato
+Piro piro piccolo
+Pispola
+Pispola golarossa
+Pittima minore
+Pittima reale
+Piviere dorato
+Piviere orientale
+Piviere tortolino
+Pivieressa
+Poiana
+Poiana calzata
+Poiana codabianca
+Pollo sultano
+Pollo sultano della Martinica
+Porciglione
+Prispolone
+Prispolone indiano
+Quaglia
+Quattrocchi
+Rampichino alpestre
+Rampichino comune
+Re di quaglie
+Regolo
+Rigogolo
+Rondine
+Rondine montana
+Rondine rossiccia
+Rondone comune
+Rondone maggiore
+Rondone pallido
+Salciaiola
+Saltimpalo
+Schiribilla
+Schiribilla grigiata
+Scricciolo
+Sgarza ciuffetto
+Sirratte
+Smergo maggiore
+Smergo minore
+Smeriglio
+Sordone
+Sparviere
+Spatola
+Spioncello
+Starna
+Stercorario maggiore
+Stercorario mezzano
+Sterna codalunga
+Sterna comune
+Sterna di Dougall
+Sterna di RÃ¼ppell
+Sterna maggiore
+Sterna zampenere
+Sterpazzola
+Sterpazzola della Sardegna
+Sterpazzolina
+Stiaccino
+Storno
+Storno nero
+Storno roseo
+Strillozzo
+Strolaga beccogiallo
+Strolaga del Pacifico
+Strolaga maggiore
+Strolaga mezzana
+Strolaga minore
+Succiacapre
+Sula
+Svasso collorosso
+Svasso cornuto
+Svasso maggiore
+Svasso piccolo
+Taccola
+Tarabusino
+Tarabuso
+Topino
+Torcicollo
+Tordela
+Tordo  siberiano
+Tordo bottaccio
+Tordo sassello
+Tortora dal collare
+Tortora selvatica
+Totano moro
+Tottavilla
+Trombettiere
+Tuffetto
+Ubara africana
+Ubara asiatica
+Uccello delle tempeste
+Uccello delle tempeste codaforcuta
+Uccello delle tempeste di Castro
+Ulula
+Upupa
+Uria
+Urietta beccolungo
+Usignolo
+Usignolo d'Africa
+Usignolo di fiume
+Usignolo maggiore
+Venturone alpino
+Verdone
+Verzellino
+Volpoca
+Voltapietre
+Voltolino
+Zafferano
+Zigolo boschereccio
+Zigolo capinero
+Zigolo della Lapponia
+Zigolo delle nevi
+Zigolo giallo
+Zigolo golarossa
+Zigolo minore
+Zigolo muciatto
+Zigolo nero
